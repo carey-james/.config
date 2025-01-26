@@ -2,6 +2,7 @@
 
 # Color Palette
 # Monokai
+# Colors are in the format AAFFFFFF so don't preview correctly
 BLACK=0xff212117
 WHITE=0xfff7f7f7
 MAGENTA=0xfff92472
