@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-COLOR="$GREEN"
+COLOR="$CYAN"
 
 sketchybar \
 	--add item sound right \
