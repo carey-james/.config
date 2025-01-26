@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-COLOR="$BLUE"
+COLOR="$TAN"
 
 sketchybar --add item calendar right \
 	--set calendar update_freq=15 \

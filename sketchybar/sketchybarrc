@@ -50,6 +50,8 @@ source "$ITEM_DIR/volume.sh"
 # source "$ITEM_DIR/mic.sh"
 source "$ITEM_DIR/ram.sh"
 source "$ITEM_DIR/cpu.sh"
+source "$ITEM_DIR/download.sh"
+source "$ITEM_DIR/upload.sh"
 
 #################### Finalizing Setup ####################
 
