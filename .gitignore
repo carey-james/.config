@@ -35,3 +35,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# zsh
+*.zcompdump-James’s MacBook Pro-5.9
+.zsh_sessions
+.zsh_history
