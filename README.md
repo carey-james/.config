@@ -21,6 +21,24 @@ Sketchybar is used to add an updating status bar to the top of the screens.
 ### Uninstall
 [SketchyBar Uninstall](https://felixkratz.github.io/SketchyBar/setup#uninstall)
 
+### Icons
+
+Uses icons from Nerdfonts, which can be looked up [here](https://www.nerdfonts.com/cheat-sheet).
+
+
+## zsh
+
+### Oh My Zsh
+
+[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/tree/master)
+
+Oh My Zsh is used to customize the prompt in zsh in Terminal. 
+
+A customm prompt is stored in `custom-zsh` and needs to be copied to the Oh My Zsh themes folder for it to function (as well as configured in `.zshrc`).
+
+A custom color scheme is also used (not actually a part of Oh My Zsh but just a Terminal color scheme compatable with the custom theme). It is stored in `custom-zsh` as well.
+
+
 ## Inspirations
 
 This setup was inspired by the following sources:
