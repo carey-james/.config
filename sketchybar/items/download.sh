@@ -8,7 +8,7 @@ sketchybar --add item download right \
 	icon.color="$COLOR" \
 	icon="" \
 	label.color="$COLOR" \
-	label.padding_right=5 \
+	label.padding_right=10 \
 	align=center \
 	background.height=26 \
 	background.corner_radius="$CORNER_RADIUS" \
