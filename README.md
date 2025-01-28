@@ -25,6 +25,11 @@ Sketchybar is used to add an updating status bar to the top of the screens.
 
 Uses icons from Nerdfonts, which can be looked up [here](https://www.nerdfonts.com/cheat-sheet).
 
+### Items
+
+#### network
+Requires `ifstat` to be installed (`brew install ifstat`).
+
 
 ## zsh
 
