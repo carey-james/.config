@@ -36,6 +36,18 @@ Oh My Zsh is used to customize the prompt in zsh in Terminal.
 
 A custom prompt is stored in `custom-zsh` and needs to be copied to the Oh My Zsh themes folder for it to function (as well as configured in `.zshrc`).
 
+#### Plugins
+
+Several Oh My Zsh plugins are used:
+
+[git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+
+[sublime](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sublime)
+
+[python](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/python)
+
+### Colors
+
 A custom color scheme is also used (not actually a part of Oh My Zsh but just a Terminal color scheme compatible with the custom theme). It is stored in `custom-zsh` as well.
 
 
